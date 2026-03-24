@@ -1,14 +1,4 @@
-"""
-Intermediate Python basics examples.
-
-Topics covered:
-  1. Type hints & typing module
-  2. Dataclasses
-  3. Generators & iterators
-  4. List / dict comprehensions
-  5. Error handling with custom exceptions
-  6. Context managers
-"""
+@author : Fmusaaa
 
 from __future__ import annotations
 
