@@ -1,0 +1,16 @@
+id,Name ,age,  salary,department,score,notes
+1,Alice,30,75000,Engineering,88.5,
+2,Bob,  ,82000,Marketing,76.0,needs follow-up
+3,Charlie,35,  ,Engineering,92.1,
+4,Diana,28,68000,  HR  ,,
+5,Eve,42,95000,Engineering,85.3,senior
+6,Frank,31,72000,Marketing,79.8,
+7,Grace,,78000,HR,88.0,
+8,Henry,38,85000,Engineering,,promoted
+9,Iris,26,61000,Marketing,72.5,
+10,Jack,45,110000,Engineering,95.0,principal
+11,Kate,33,74000,HR,83.2,
+12,Liam,29,69000,Marketing,78.9,new hire
+13,Mia,37,88000,Engineering,90.4,
+14,Noah,,91000,Engineering,87.6,
+15,Olivia,31,67000,HR,80.1,
